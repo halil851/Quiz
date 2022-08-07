@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A99B4408289D431000590EAB /* Question.swift in Sources */ = {isa = PBXBuildFile; fileRef = A99B4407289D431000590EAB /* Question.swift */; };
+		A9E5139928A029320017E6A4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = A9E5139828A029320017E6A4 /* README.md */; };
 		A9F7FFB2289E79D000BF3037 /* QuizBrain.swift in Sources */ = {isa = PBXBuildFile; fileRef = A9F7FFB1289E79D000BF3037 /* QuizBrain.swift */; };
 		AD4BDE4A22D878BA005BA4CC /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDE4922D878BA005BA4CC /* AppDelegate.swift */; };
 		AD4BDE4C22D878BA005BA4CC /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD4BDE4B22D878BA005BA4CC /* SceneDelegate.swift */; };
@@ -19,6 +20,7 @@
 
 /* Begin PBXFileReference section */
 		A99B4407289D431000590EAB /* Question.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Question.swift; sourceTree = "<group>"; };
+		A9E5139828A029320017E6A4 /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		A9F7FFB1289E79D000BF3037 /* QuizBrain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizBrain.swift; sourceTree = "<group>"; };
 		AD4BDE4622D878BA005BA4CC /* Quiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD4BDE4922D878BA005BA4CC /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 		AD4BDE3D22D878BA005BA4CC = {
 			isa = PBXGroup;
 			children = (
+				A9E5139828A029320017E6A4 /* README.md */,
 				AD4BDE4822D878BA005BA4CC /* Quiz */,
 				AD4BDE4722D878BA005BA4CC /* Products */,
 			);
@@ -157,6 +160,7 @@
 			files = (
 				AD4BDE5622D878BC005BA4CC /* LaunchScreen.storyboard in Resources */,
 				AD4BDE5322D878BC005BA4CC /* Assets.xcassets in Resources */,
+				A9E5139928A029320017E6A4 /* README.md in Resources */,
 				AD4BDE5122D878BA005BA4CC /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
