@@ -1,5 +1,6 @@
-# I personaly added; 
+## I personaly added; 
 *Last Score 
+
 *When you press any answer button text colour will change to black
 
 
